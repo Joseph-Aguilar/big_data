@@ -1,6 +1,6 @@
 October 31st, 2020
 
-Joseph Aguilar-Bohorquez
+Joseph Aguilar
 
 APEC 8222 - Big Data Methods for Economics
 
